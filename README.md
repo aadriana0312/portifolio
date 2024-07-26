@@ -20,3 +20,4 @@ Olá, meu nome é Adriana e atualmente estou cursando Análise e Desenvolvimento
 ### Educação
 * **Ensino Médio**- em andamento | Sesi Darcy Zacharias 284-Presidente Prudente
 * **Curso Técnico**- em andamento | Sesi Darcy Zacharias 284-Presidente Prudente
+* **Curso de Inglês** Inglês avançado
