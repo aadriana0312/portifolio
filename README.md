@@ -1,7 +1,7 @@
 # Adriana Rodrigues de Araujo
 ## Sobre mim
 
-##### Olá, meu nome é Adriana e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho experiência em Python, JavaScript e HTML. Estou sempre em busca de novas oportunidades para aprender e aplicar minhas habilidades em tecnologia. Além disso, possuo um bom domínio da língua inglesa, o que me permite comunicar efetivamente em ambientes internacionais.
+###### Olá, meu nome é Adriana e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho experiência em Python, JavaScript e HTML. Estou sempre em busca de novas oportunidades para aprender e aplicar minhas habilidades em tecnologia. Além disso, possuo um bom domínio da língua inglesa, o que me permite comunicar efetivamente em ambientes internacionais.
 
 
 
