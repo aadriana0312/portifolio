@@ -20,11 +20,11 @@ OBB (Olimpíada Brasileira de Biologia),
 OBCH (Olimpíada Brasileira de Ciências Humanas),
 OBG (Olimpíada Brasileira de Geografia),
 ONEE (Olimpíada Nacional de Eficiência Energética),
-Canguru de Matemática.
+Canguru de Matemática
 
 
 
 ### Educação
 * **Ensino Médio**- em andamento | Sesi Darcy Zacharias 284-Presidente Prudente
 * **Curso Técnico**- em andamento | Sesi Darcy Zacharias 284-Presidente Prudente
-* **Curso de Inglês** Inglês avançado
+* **Curso de Inglês** Nível avançado
