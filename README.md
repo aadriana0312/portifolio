@@ -25,6 +25,6 @@ Canguru de Matemática
 
 
 ### Educação
-* **Ensino Médio**- em andamento | Sesi Darcy Zacharias 284-Presidente Prudente
-* **Curso Técnico**- em andamento | Sesi Darcy Zacharias 284-Presidente Prudente
-* **Curso de Inglês** Nível avançado
+* **Ensino Médio** - em andamento | Sesi Darcy Zacharias 284-Presidente Prudente
+* **Curso Técnico** - em andamento | Sesi Darcy Zacharias 284-Presidente Prudente
+* **Curso de Inglês** - Nível avançado
