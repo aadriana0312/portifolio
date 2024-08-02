@@ -1,12 +1,12 @@
 # Adriana Rodrigues de Araujo
 ## Técnica em desenvolvimento de sistemas
 
-Olá, meu nome é Adriana e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho experiência em Python e o básico de Java Script.
+Olá, meu nome é Adriana e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho experiência em Python e o básico de Java Script e HTML
 
 
 
 ### Habilidades e Competencias
-* **Tecnologias:** Python
+* **Tecnologias:** Python, HTML, JavaScript
 * **Soft Skills:** Trabalho em equipe, resolução de problemas, comunicação.
 * Domínio da lingua inglesa
 
