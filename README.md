@@ -15,7 +15,7 @@
 * **Iniciação Científica:** Participação no Programa de Iniciação Científica (PIC) OBMEP-UNESP.
 * **Experiência em Gestão Financeira:** Atuei como tesoureira no Sesi Estudantil, onde fui responsável pelo controle financeiro e planejamento orçamentário das atividades estudantis.
 * **Curso de Python:** Certificação no curso de Python pela Cisco.
-* **Olimpíadas Científicas:** Medalhista em várias olimpíadas, incluindo:
+* **Olimpíadas Científicas:** Medalhista em olimpíadas do conhecimento, incluindo:
   - ONC (Olimpíada Nacional de Ciências)
   - OBB (Olimpíada Brasileira de Biologia)
   - OBCH (Olimpíada Brasileira de Ciências Humanas)
@@ -26,4 +26,4 @@
 ### Educação
 * **Ensino Médio** - em andamento | SESI Darcy Zacharias 284, Presidente Prudente
 * **Curso Técnico** - em andamento | SENAI Santo Paschoal Crepaldi
-* **Curso de Inglês** - Nível avançado | CCAA
+* **Curso de Inglês** - 2018-2024 | CCAA
