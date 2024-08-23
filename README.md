@@ -15,12 +15,12 @@
 * **Idiomas:** Inglês avançado
 * **Iniciação científica:** Participação no Programa de Iniciação Científica (PIC) OBMEP-UNESP.
 * **Olimpíadas científicas:** Medalhista em várias olimpíadas, incluindo:
-- ONC (Olimpíada Nacional de Ciências),
-- OBB (Olimpíada Brasileira de Biologia),
-- OBCH (Olimpíada Brasileira de Ciências Humanas),
-- OBG (Olimpíada Brasileira de Geografia),
-- ONEE (Olimpíada Nacional de Eficiência Energética),
-- Canguru de Matemática.
+ONC (Olimpíada Nacional de Ciências),
+OBB (Olimpíada Brasileira de Biologia),
+OBCH (Olimpíada Brasileira de Ciências Humanas),
+OBG (Olimpíada Brasileira de Geografia),
+ONEE (Olimpíada Nacional de Eficiência Energética),
+Canguru de Matemática.
 
 ### Educação
 * **Ensino Médio** - em andamento | SESI Darcy Zacharias 284-Presidente Prudente
