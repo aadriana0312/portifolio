@@ -2,10 +2,10 @@
 
 ## Sobre Mim
 
-###### Olá, meu nome é Adriana e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho experiência em Python, JavaScript, HTML e CSS. Estou sempre em busca de novas oportunidades para aprender e aplicar minhas habilidades em tecnologia. Além disso, possuo um bom domínio da língua inglesa, o que me permite comunicar efetivamente em ambientes internacionais.
+###### Olá, meu nome é Adriana e atualmente estou cursando Análise e Desenvolvimento de Sistemas. Tenho experiência em Python, JavaScript, HTML, CSS e outras tecnologias. Estou sempre em busca de novas oportunidades para aprender e aplicar minhas habilidades em tecnologia. Além disso, possuo um bom domínio da língua inglesa, o que me permite comunicar efetivamente em ambientes internacionais.
 
 ### Habilidades e Competências
-* **Tecnologias:** Python, HTML, JavaScript, CSS.
+* **Tecnologias:** Python, HTML, JavaScript, CSS, Node.js, Express, MySQL e APIs.
 * **Soft Skills:** Trabalho em equipe, resolução de problemas, comunicação.
 * **Domínio da língua inglesa.**
 
